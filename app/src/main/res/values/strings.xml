@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Currency Converter</string>
+    <string-array name="currencies">
+        <item>USD</item>
+        <item>SGD</item>
+        <!-- Add more currencies here -->
+    </string-array>
+    <string name="country_flag">Country flag</string>
+</resources>
